@@ -1,12 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.IO;
-using System.Text;
-using System.Threading.Tasks;
 using Outlook = Microsoft.Office.Interop.Outlook;
-
-//https://msdn.microsoft.com/en-us/library/office/bb652780.aspx
 
 namespace OutlookAttachmentExtractor
 {
